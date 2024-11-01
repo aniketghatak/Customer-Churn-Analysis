@@ -1,4 +1,3 @@
-# Customer-Churn-Analysis
 # **Project Introduction**
 
 In this project I have created a dashboard in Power BI about the Customer Churn analysis of a telecom company.
@@ -8,6 +7,10 @@ Customer churn is the percentage of customers that have stopped using a company'
 # **Objective**
 
 The objective was to compare the key metrics (payment method, demographics, monthly charges etc) between the total customers of the telecom company with that of the churned customers.
+
+<a href="#">
+        <img src="customer churn analysis.png"/>
+</a>
 
 Note:
 
